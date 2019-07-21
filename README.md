@@ -1,8 +1,6 @@
 # Java Deep Learning Projects
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/java-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997454"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/10335_cover_1.png" alt="Java Deep Learning Projects" height="256px" align="right"></a>
-
-This is the code repository for [Java Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/java-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788997454), published by Packt.
+This is the code repository for [Java Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/java-deep-learning-projects), published by Packt.
 
 **Implement 10 real-world deep learning applications using Deeplearning4j and open source APIs**
 
@@ -15,12 +13,6 @@ This book covers the following exciting features:
 * Train ML agents to learn from data using deep reinforcement learning
 * Use factorization machines for advanced movie recommendations
 * Train DL models on distributed GPUs for faster deep learning with Spark and DL4J
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178899745X) today! 
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
-
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
@@ -48,11 +40,6 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/JavaDeepLearningProjects_ColorImages.pdf).
 
-### Related products <Paste books from the Other books you may enjoy section>
-* Mastering Java Machine Learning [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-java-machine-learning#utm_source=github&utm_medium=repository&utm_campaign=9781785880513) [[Amazon]](https://www.amazon.com/dp/1785880519)
-
-* Neural Network Programming with Java - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/neural-network-programming-java-second-edition#utm_source=github&utm_medium=repository&utm_campaign=9781787126053) [[Amazon]](https://www.amazon.com/dp/1787126056)
-
 ## Get to Know the Author(s)
 **Md. Rezaul Karim**
 Md. Rezaul Karim is a Research Scientist at Fraunhofer FIT, Germany. He is also a PhD
@@ -63,7 +50,6 @@ He has 9 years of R&D experience in Java, Scala, Python, and R. He has hands-on
 experience in Spark, Zeppelin, Hadoop, Keras, scikit-learn, TensorFlow, Deeplearning4j,
 and H2O. He has published several research papers in top-ranked journals/conferences
 focusing on bioinformatics and deep learning.
-
 
 ## Other books by the author
 * [Predictive Analytics with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow)
@@ -78,6 +64,3 @@ focusing on bioinformatics and deep learning.
 ## Other video courses by the author
 * [Practical Convolutional Neural Networks [Video]](https://www.packtpub.com/big-data-and-business-intelligence/practical-convolutional-neural-networks-video)
 * [Predictive Analytics with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow-video)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
